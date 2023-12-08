@@ -10,6 +10,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) throws IOException {
+        //gg
         Scanner scanner = new Scanner(System.in);
         ListFlights flights = new ListFlights();
         File file = new File("./file.txt");
